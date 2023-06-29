@@ -97,3 +97,39 @@ Jun 24 2023 16:59:20
 Jun 24 2023 16:59:22
 {"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\victressv2\\wp-content\\plugins\\simply-static\\src\\class-ss-query.php","line":397}
 
+Jun 29 2023 13:18:51
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\victressv2\\wp-content\\plugins\\wpforms-lite\\vendor\\woocommerce\\action-scheduler\\classes\\schema\\ActionScheduler_LoggerSchema.php","line":83}
+
+Jun 29 2023 13:18:52
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\victressv2\\wp-content\\plugins\\wpforms-lite\\vendor\\woocommerce\\action-scheduler\\classes\\schema\\ActionScheduler_LoggerSchema.php","line":83}
+
+Jun 29 2023 13:18:52
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\victressv2\\wp-content\\plugins\\wpforms-lite\\vendor\\woocommerce\\action-scheduler\\classes\\schema\\ActionScheduler_LoggerSchema.php","line":83}
+
+Jun 29 2023 13:18:53
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\victressv2\\wp-content\\plugins\\wpforms-lite\\vendor\\woocommerce\\action-scheduler\\classes\\schema\\ActionScheduler_LoggerSchema.php","line":83}
+
+Jun 29 2023 13:18:54
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\victressv2\\wp-content\\plugins\\wpforms-lite\\vendor\\woocommerce\\action-scheduler\\classes\\schema\\ActionScheduler_LoggerSchema.php","line":83}
+
+Jun 29 2023 13:19:05
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\victressv2\\wp-content\\plugins\\wpforms-lite\\vendor\\woocommerce\\action-scheduler\\classes\\schema\\ActionScheduler_LoggerSchema.php","line":83}
+
+Jun 29 2023 13:19:15
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\victressv2\\wp-content\\plugins\\wpforms-lite\\vendor\\woocommerce\\action-scheduler\\classes\\schema\\ActionScheduler_LoggerSchema.php","line":83}
+
+Jun 29 2023 13:19:24
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\victressv2\\wp-content\\plugins\\wpforms-lite\\vendor\\woocommerce\\action-scheduler\\classes\\schema\\ActionScheduler_LoggerSchema.php","line":83}
+
+Jun 29 2023 13:19:26
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\victressv2\\wp-content\\plugins\\wpforms-lite\\vendor\\woocommerce\\action-scheduler\\classes\\schema\\ActionScheduler_LoggerSchema.php","line":83}
+
+Jun 29 2023 13:19:27
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\victressv2\\wp-content\\plugins\\wpforms-lite\\vendor\\woocommerce\\action-scheduler\\classes\\schema\\ActionScheduler_LoggerSchema.php","line":83}
+
+Jun 29 2023 13:19:28
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\victressv2\\wp-content\\plugins\\wpforms-lite\\vendor\\woocommerce\\action-scheduler\\classes\\schema\\ActionScheduler_LoggerSchema.php","line":83}
+
+Jun 29 2023 13:19:29
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\victressv2\\wp-content\\plugins\\wpforms-lite\\vendor\\woocommerce\\action-scheduler\\classes\\schema\\ActionScheduler_LoggerSchema.php","line":83}
+
